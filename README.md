@@ -2,4 +2,4 @@
 A plain text terminal chess engine written in python. 
 
 
-Run main.py to play normally.
+Run "python3 main.py" to play normally.
